@@ -24,7 +24,7 @@ PROBLEM STATEMENT:
 Nexus bank has conducted campaigns with the goal of acquiring deposits.
 In the last board meeting, the directors were unsatisfied with their current situation and
 need to optimize the operations at Nexus bank.
-The Directors of Nexux  are interested in
+The Directors of Nexus  are interested in
 leveraging the power of their data to gain insights into the bank and improve their
 efficiency. They want to identify patterns and trends in customer behavior to decipher if
 customer demographics such as age, educational level e.t.c influences customer’s attitude
