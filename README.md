@@ -1,5 +1,8 @@
 # -NEXUS-BANK---CUSTOMER-SEGMENTATION-AND-DEPOSIT-DETECTION-SYSTEM-PROJECT-2023
-ABOUT US
+ABOUT US:
+
+
+
 Nexus Bank is a financial institution dedicated to
 delivering unparalleled banking services to our clients. Our mission
 is to establish enduring relationships with our customers by
@@ -14,7 +17,10 @@ Our team of seasoned banking professionals is committed to
 providing you with the utmost level of service, transparency, and
 honesty.
 
-PROBLEM STATEMENT
+PROBLEM STATEMENT:
+
+
+
 Nexus bank has conducted campaigns with the goal of acquiring deposits.
 In the last board meeting, the directors were unsatisfied with their current situation and
 need to optimize the operations at Nexus bank.
