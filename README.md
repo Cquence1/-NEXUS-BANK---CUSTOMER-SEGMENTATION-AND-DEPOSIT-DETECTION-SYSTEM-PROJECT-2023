@@ -21,7 +21,7 @@ PROBLEM STATEMENT:
 
 
 
-Nexus bank has conducted campaigns with the goal of acquiring deposits.
+Nexus Bank has conducted campaigns with the goal of acquiring deposits.
 In the last board meeting, the directors were unsatisfied with their current situation and
 need to optimize the operations at Nexus bank.
 The Directors of Nexus  are interested in
